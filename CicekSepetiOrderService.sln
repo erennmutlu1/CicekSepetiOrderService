@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CicekSepetiOrderService", "CicekSepetiOrderService.csproj", "{EA98CBA1-AA97-45B7-8AD1-56AF1A576DCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA98CBA1-AA97-45B7-8AD1-56AF1A576DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA98CBA1-AA97-45B7-8AD1-56AF1A576DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA98CBA1-AA97-45B7-8AD1-56AF1A576DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA98CBA1-AA97-45B7-8AD1-56AF1A576DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A306041F-53D9-43CF-A5A3-D0F0B22C5089}
+	EndGlobalSection
+EndGlobal
